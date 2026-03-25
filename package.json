@@ -1,0 +1,14 @@
+{
+  "name": "dominos",
+  "version": "1.0.0",
+  "description": "Dominos Project",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ojijofebbians-ops/dominos.git"
+  },
+  "author": "ojijofebbians-ops",
+  "dependencies": {},
+  "devDependencies": {}
+}
